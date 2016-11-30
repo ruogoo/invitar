@@ -1,0 +1,13 @@
+{
+    "name": "ruogoo/invitar",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "illuminate/support": "^5.3"
+    }
+}
